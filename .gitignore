@@ -1,0 +1,12 @@
+.cache
+.config
+assets/css/fontawesome-all.min.css
+assets/images
+assets/js/j*
+assets/js/b*
+assets/js/u*
+assets/sass
+assets/webfonts
+.replit
+left-sidebar.html
+replit.nix
